@@ -2,7 +2,7 @@
 
 > Projet de modélisation d’un robot parallèle 3RRR avec visualisation en temps réel sous Python.
 
-## 🛠️ Description
+##  Description
 
 Ce projet vise à concevoir, modéliser et simuler un robot manipulateur parallèle plan de type **3RRR**. L’objectif est de fournir un outil interactif capable de simuler le comportement du robot, en prenant en compte la cinématique, les singularités, les collisions, et l’optimisation de trajectoires.
 
@@ -10,7 +10,7 @@ Réalisé dans le cadre du cours de modélisation (2024/2025) par **Sayf Chafik*
 
 ---
 
-## 📷 Aperçu
+##  Aperçu
 
 Interface graphique en temps réel (mode manuel et automatique avec trajectoires prédéfinies) :
 
@@ -20,7 +20,7 @@ Interface graphique en temps réel (mode manuel et automatique avec trajectoires
 
 ---
 
-## ⚙️ Fonctionnalités
+##  Fonctionnalités
 
 - **Modélisation 3D** sous SolidWorks optimisée pour l’impression 3D.
 - **Simulation interactive** avec pygame :
@@ -55,7 +55,6 @@ Interface graphique en temps réel (mode manuel et automatique avec trajectoires
 ## Améliorations possibles
 
 - Export CSV des trajectoires.
-- Interface avancée avec `Tkinter` ou `PyQt`.
 - Couplage avec robot réel via communication série.
 - Visualisation des zones de singularité et de sécurité.
 
